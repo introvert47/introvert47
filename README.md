@@ -10,12 +10,18 @@ I build small, working things instead of impressive-looking demos — an AI comp
 
 Based in Faisalabad, Pakistan.
 
+<p>
+<a href="https://dev-portfolio-02.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-dev--portfolio--02.vercel.app-89B4FA?style=for-the-badge&logo=vercel&logoColor=1e1e2e" /></a>
+</p>
+
 <br>
 
 ### what I'm building
 
 - 🗣️ **[Ori](https://ori-002.vercel.app/)** — a full-stack AI companion, adaptive persona + persistent memory, load-balanced across Groq and Gemini
-- 🤖 **Optimus** — a personal AI assistant with a real spoken voice (Fish Audio) and cross-session memory
+- 🤖 **Optimus** — a personal AI assistant with a real spoken voice (Fish Audio) and cross-session memory (private build)
+- 🎧 **[Resonance Lab](https://resonance-lab-04.vercel.app/)** — an interactive frequency & binaural-beat synthesizer with a live oscilloscope and brainwave-targeted stereo engine
+- 💬 **[AI Freaks](https://ai-freaks.vercel.app/)** — a quick voice-enabled AI chat, bring-your-own Gemini key, no backend
 - 🧹 **[Nexus Optimizer](https://github.com/introvert47/nexus_optimizer)** — Windows cleanup tool with a built-in AI assistant, packaged as a single `.exe`
 - ✋ **[Hand Gesture Particle Controller](https://gesture002.vercel.app/)** — webcam hand-tracking that pushes particles around in real time
 - 🧪 currently picking up **LLM fine-tuning**
